@@ -1,0 +1,1965 @@
+[ 2016-04-19T10:53:34+08:00 ] 127.0.0.1 /home/to
+ERR: 非法操作:index
+
+[ 2016-04-19T10:54:02+08:00 ] 127.0.0.1 /home/to/view
+ERR: 参数错误或者未定义:id
+
+[ 2016-04-19T10:54:24+08:00 ] 127.0.0.1 /Home/Index/outputExcel
+ERR: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: ����������������ʱͨ�����ֵ���ʱ��������ζ�ű��ط�����û�д�Ȩ�����������յ���Ӧ�� 
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:30:24+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:26+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.8382884380140836
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:26+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.7945870312805976
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.8040815530288121
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.8904200034795811
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.5555447319642115
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.29768633861616567
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.7085203240784455
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:28+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.42539595713631506
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:28+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.5046297776814066
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:28+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.1394015383268985
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:30+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.026385842391162928
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:30+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.09404983357835106
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:31+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.5362796290389018
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:31+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.2580777716135858
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:31+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.6288502113739247
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:37+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.12195336949349733
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:38+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.8364374828876779
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:38+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.7057328487822034
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:38+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.13875522148022035
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:38+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.6545961410599124
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:30:38+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.661630997885587
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:31:32+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.45178327103998717
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:31:32+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.812773277366015
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:33+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:31:34+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:22+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:25+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.35222446096537774
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:25+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.6822445443586511
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:25+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.26373978958688316
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:26+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:35:28+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:07+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:10+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:36:46+08:00 ] 192.168.1.144 /Home/Login/U(:'Login/getVerify')
+ERR: 非法操作:U(:'Login
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:27+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:29+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:32+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:37:35+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:37+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.9389879191106596
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:37+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.3791122709693684
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:37+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.5810219659932616
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:37:37+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.44872302308161705
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:08+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:38:09+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:32+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:33+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T11:42:34+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:48+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:49+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:50+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:40:53+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:40:55+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.6625837967497303
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:56+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.15302507047049096
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:56+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.7448936521710112
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:56+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.25200067694391715
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:56+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.6369827521031861
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:57+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.24292324928410536
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:57+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.5838708048604422
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:57+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.4330737895709891
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:40:57+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify?0.1742648269841407
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:41:49+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:41:50+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:11+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:12+08:00 ] 192.168.1.144 /Home/Login/Home/Login/getVerify
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/U('Login/getVerify')
+ERR: 非法操作:U('Login
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/U('Login/getVerify')
+ERR: 非法操作:U('Login
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:36+08:00 ] 192.168.1.144 /Home/Login/U('Login/getVerify')
+ERR: 非法操作:U('Login
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:42:37+08:00 ] 192.168.1.144 /Home/Login/U('Login/getVerify')
+ERR: 非法操作:U('Login
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:05+08:00 ] 192.168.1.144 /Home/Login/U('Home/Login/getVerify')
+ERR: 非法操作:U('Home
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:43:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:51:05+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:53:44+08:00 ] 192.168.1.144 /Home/Login/Home/Login/index
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:54:07+08:00 ] 192.168.1.144 /Home/Login/Home/Login/index
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:54:39+08:00 ] 192.168.1.144 /Home/Login/Home/Login/index
+ERR: 非法操作:Home
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T12:55:04+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:00:50+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:01:20+08:00 ] 192.168.1.144 /Home/Login/Home/Index/index.html
+ERR: 非法操作:Home
+
+[ 2016-04-19T13:02:52+08:00 ] 192.168.1.144 /Home/Login/Home/Index/index.html
+ERR: 非法操作:Home
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/bootstrap.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/jquery.sorted.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/bootstrap-responsive.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Css/style.css
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/ckform.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:02:57+08:00 ] 192.168.1.144 /Home/Login/Public/Js/common.js
+ERR: 非法操作:Public
+
+[ 2016-04-19T13:03:24+08:00 ] 192.168.1.144 /Home/Index/Home/Index/outputExcel
+ERR: 非法操作:Home
+

@@ -1,0 +1,9 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+    <title>导出</title>
+</head>
+<body>
+    <a href="/Home/Index/outputExcel"><input type="button" value="导出Excel" /></a>
+</body>
+</html>
